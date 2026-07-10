@@ -38,7 +38,7 @@ activities = {
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
-    },
+,
     "Basketball Team": {
         "description": "Competitive basketball games and practice drills",
         "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
@@ -75,6 +75,7 @@ activities = {
         "max_participants": 18,
         "participants": ["christopher@mergington.edu"]
     }
+}    }
 }
 
 
